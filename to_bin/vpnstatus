@@ -1,2 +1,2 @@
-#Update "/home/scripts/mmanage/" to the location of mullmanage.py on your machine
-/home/scripts/mmanage/./statuscheck.sh
+#Update "/home/user/scripts/mmanage/" to the location of mullmanage.py on your machine
+/home/user/scripts/mmanage/./statuscheck.sh
