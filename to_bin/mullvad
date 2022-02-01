@@ -1,2 +1,2 @@
-#Update "/home/scripts/mmanage/" to the location of mullmanage.py on your machine
-sudo /home/scripts/mmanage/./mullmanage.py $1
+#Update "/home/user/scripts/mmanage/" to the location of mullmanage.py on your machine
+sudo /home/user/scripts/mmanage/./mullmanage.py $1
